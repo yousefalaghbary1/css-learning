@@ -12,3 +12,7 @@ This project is a simple website to learn colors in Spanish. It includes HTML, C
 ## Technologies Used
 - HTML
 - CSS
+
+# Font Properties
+
+This folder contains examples and exercises related to font properties in CSS. It includes HTML files that demonstrate how to apply various font families, sizes, and styles.
